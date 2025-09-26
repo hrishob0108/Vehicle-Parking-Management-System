@@ -36,5 +36,5 @@ It allows administrators to manage parking floors and slots, and enables custome
 
 ### 1. Clone the repository
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/hrishob0108/Vehicle-Parking-Management-System.git>
 cd parking-lot-reservation
