@@ -23,7 +23,7 @@ It allows administrators to manage parking floors and slots, and enables custome
 ## Tech Stack
 - Java 17+  
 - Spring Boot 3+  
-- Neon Database
+- H2 Database
 - Maven  
 - Bean Validation (`@Valid`)  
 - VS Code 
