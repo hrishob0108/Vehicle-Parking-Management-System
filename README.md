@@ -23,10 +23,10 @@ It allows administrators to manage parking floors and slots, and enables custome
 ## Tech Stack
 - Java 17+  
 - Spring Boot 3+  
-- MySQL  
+- H2 DataBase  
 - Maven  
 - Bean Validation (`@Valid`)  
-- VS Code (IDE)  
+- VS Code 
 
 ## Setup and Run Instructions
 
@@ -36,5 +36,7 @@ It allows administrators to manage parking floors and slots, and enables custome
 
 ### 1. Clone the repository
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/hrishob0108/Vehicle-Parking-Management-System.git
 cd parking-lot-reservation
+
+Deploy Link:- https://vehicle-parking-management-system-qdes.onrender.com
