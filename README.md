@@ -32,7 +32,16 @@ It allows administrators to manage parking floors and slots, and enables custome
 
 ### Prerequisites
 - Install **Java 17+**, **Maven**, and **MySQL**  
-- Use **VS Code** or any Java IDE  
+- Use **VS Code** or any Java IDE
+
+### Note about Homepage and Swagger UI
+
+Currently, visiting the root URL (/) shows the Spring Boot White Label Error Page.
+All API routes are fully functional, and you can test them using Postman.
+
+Swagger UI is implemented locally for API testing but has not yet been pushed to the deployed version.
+
+Future updates will include a proper homepage and Swagger UI access on the live deployment. 
 
 ### 1. Clone the repository
 ```bash
@@ -40,3 +49,5 @@ git clone https://github.com/hrishob0108/Vehicle-Parking-Management-System.git
 cd parking-lot-reservation
 
 Deploy Link:- https://vehicle-parking-management-system-qdes.onrender.com
+
+
